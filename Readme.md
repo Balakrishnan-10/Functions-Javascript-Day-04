@@ -56,6 +56,8 @@ Syntax :
 
 ## Console Output:
 
+![Console Output](https://github.com/Balakrishnan-10/Functions-Javascript-Day-04/assets/157093363/376cb320-e762-41bc-9431-2d6444729110)
+
 # Used TOOL & IDE:
  <a href="https://github.com/Balakrishnan-10/Functions-Javascript-Day-04.git" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
